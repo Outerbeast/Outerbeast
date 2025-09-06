@@ -13,6 +13,7 @@ Modular AngelScript entities, gamemodes, and tooling for Sven Co-op level design
 | [anti_rush](https://github.com/Outerbeast/anti_rush) | Anti-rush custom entity for levels | AngelScript | ✅ Stable |
 | [Npc-Transition](https://github.com/Outerbeast/Npc-Transition) | Seamless NPC handoff between level transitions | AngelScript | ✅ Stable |
 | [Healthbar](https://github.com/Outerbeast/Healthbar) | Healthbar entity for NPC health indicators | AngelScript | ✅ Stable |
+| [NightVision](https://github.com/Outerbeast/NightVision) | Opposing Force-style nightivision mode for Sven Co-op | AngelScript | ✅ Stable |
 
 ---
 ## Apps and Tools
