@@ -19,7 +19,7 @@ Modular AngelScript entities, gamemodes, and tooling for Sven Co-op level design
 
 | Repo Name | Description | Language | Status |
 |-----------|-------------|----------|--------|
-| [TurboRipent]| TUI frontend for Ripent and Lazyripent | Go | 🧪 Experimental |
+| [TurboRipent](https://github.com/Outerbeast/TurboRipent)| TUI frontend for Ripent and Lazyripent | Go | 🧪 Experimental |
 | [SC-Addon-Installer](https://github.com/Outerbeast/SC-Addon-Installer) | .NET app for frictionless Sven Co-op addon setup | C# | ✅ Stable |
 | [Tools](https://github.com/Outerbeast/Tools) | Miscalleaneous tools for modding Sven Co-op | Powershell/ Batch | ✅ Stable |
 
