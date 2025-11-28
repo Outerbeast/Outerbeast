@@ -23,6 +23,7 @@
 |-----------|-------------|----------|--------|
 | [TurboRipent](https://github.com/Outerbeast/TurboRipent)| TUI frontend for Ripent and Lazyripent | [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev) | 🧪 Experimental |
 | [SC Addon Installer](https://github.com/Outerbeast/SC-Addon-Installer) | .NET app for frictionless Sven Co-op addon setup | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)| ✅ Stable |
+| [SC Plugin Manager](https://github.com/Outerbeast/SC-Plugin-Manager)| Plugin manager application for Sven Co-op | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | ⭕ Unreleased |
 | [CFGBeast](https://github.com/Outerbeast/CFGBeast)| BSP map configurator for Sven Co-op | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | ✅ Stable |
 | [Tools](https://github.com/Outerbeast/Tools) | Miscalleaneous tools for modding Sven Co-op | [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev) | ✅ Stable |
 ---
