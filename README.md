@@ -16,7 +16,7 @@
 | [AimDownSights](https://github.com/Outerbeast/AimDownSights) | Realistic aiming for zoomable weapons | ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white) | ✅ Stable |
 | [NightVision](https://github.com/Outerbeast/NightVision) | Opposing Force-style nightivision mode for Sven Co-op | ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white) | ✅ Stable |
 | [Addons](https://github.com/Outerbeast/Addons) | Plugins for Sven Co-op | ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white) | ✅ Stable |
-[ [Utility Scripts](https://github.com/Outerbeast/Utility-Scripts) | Utility Scripts that add/extend Sven Co-op API features | ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white) | ⚠️ Incomplete |
+| [Utility Scripts](https://github.com/Outerbeast/Utility-Scripts) | Utility Scripts that add/extend Sven Co-op API features | ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white) | ⚠️ Incomplete |
 | [Debugging](https://github.com/Outerbeast/Debugging) | Sven Co-op scripts for various debug information | ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white) | 🧪 Experimental |
 
 ---
