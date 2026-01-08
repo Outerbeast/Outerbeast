@@ -30,3 +30,11 @@
 | [CFGBeast](https://github.com/Outerbeast/CFGBeast)| BSP map configurator for Sven Co-op | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | ✅ Stable |
 | [Tools](https://github.com/Outerbeast/Tools) | Miscalleaneous tools for modding Sven Co-op | [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev) | ✅ Stable |
 ---
+
+## Beast's Workshop
+
+### Various "treadmill" projects, may not be production ready
+
+| Repo Name | Description | Language |
+|-----------|-------------|----------|
+| [MinerLauncher](https://github.com/Outerbeast/MinerLauncher)| Quick launcher for mining tools through a flightsheet system | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | 
