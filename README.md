@@ -38,3 +38,4 @@
 | Repo Name | Description | Language |
 |-----------|-------------|----------|
 | [MinerLauncher](https://github.com/Outerbeast/MinerLauncher)| Quick launcher for mining tools through a flightsheet system | [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) | 
+| [Kooduh](https://github.com/Outerbeast/Kooduh)| (Attempted) Starter execution layer for CUDA devices| [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) ![Cuda](https://img.shields.io/badge/Cuda-3A4E3A?style=for-the-badge&logoColor=green)  | 
