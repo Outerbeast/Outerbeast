@@ -1,5 +1,5 @@
 # Welcome to Beast's Domain
-[![My Skills](https://skillicons.dev/icons?i=cs,java,go,rust,dotnet,powershell)](https://skillicons.dev) ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,rust,go,dotnet,powershell,linux,bash)](https://skillicons.dev) ![AngelScript](https://img.shields.io/badge/AngelScript-CCAAFF?style=for-the-badge&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Outerbeast&layout=compact&hide=angelscript&theme=outrun)
 ---
